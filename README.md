@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]https://stock.adobe.com/search?k=programmer+cartoon.io)
 <h1 align="center">Hi 👋, I'm wanga</h1>
 <h3 align="center">A passionate self thought backend developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/search?k=programmer+cartoon.gif")>
+<img align="right" alt="Coding" width="400" src="[https://stock.adobe.com/search?k=programmer+cartoon.gif](https://dribbble.com/chipp/collections/572323-coding-gifs)")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangasanda&label=Profile%20views&color=0e75b6&style=flat" alt="wangasanda" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandaWanga](https://github.com/SandaWanga)
 
-- 💬anything especial code related staff **Django**
+- 💬anything code related  **Django**
 
 - 📫 How to reach me **wsmzileni@gmail.com**
 
