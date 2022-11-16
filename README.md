@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]https://stock.adobe.com/search?k=programmer+cartoon.io)
+[![MasterHead](https://tenor.com/view/banner-gif-22206312)]
 <h1 align="center">Hi 👋, I'm wanga</h1>
 <h3 align="center">A passionate self thought backend developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="[https://stock.adobe.com/search?k=programmer+cartoon.gif](https://dribbble.com/chipp/collections/572323-coding-gifs)")>
